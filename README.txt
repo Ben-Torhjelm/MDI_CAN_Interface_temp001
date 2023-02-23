@@ -1,0 +1,1 @@
+This is the mandatory README file every repo need to have. Sucks that is doesnt contain any useful info :( 
